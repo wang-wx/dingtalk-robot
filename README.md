@@ -23,7 +23,7 @@ const robot = new ChatBot({
 // OR
 // const robot = new ChatBot({
 //  baseUrl: 'https://oapi.dingtalk.com/robot/send',
-//  acceessToekn: 'xxxxxxxxx'
+//  acceessToken: 'xxxxxxxxx'
 // });
 ```
 
